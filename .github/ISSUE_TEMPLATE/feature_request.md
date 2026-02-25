@@ -1,16 +1,32 @@
+---
+name: 🚀 Feature Request
+about: Suggest a new feature or enhancement
+title: "[FEATURE] "
+labels: enhancement
+assignees: ''
+---
+
 ## 🚀 Feature Request
 
-### 1. Feature Summary
-Provide a short description of the feature.
+### Feature Summary
+Short description of the requested feature.
 
-### 2. Problem It Solves
-What limitation or issue does this address?
+---
 
-### 3. Proposed Solution
-Describe how you think it should work.
+### Problem It Solves
+What limitation does this address?
 
-### 4. Alternative Solutions
-Have you considered another approach?
+---
 
-### 5. Additional Context
-Screenshots, mockups, or examples from other plugins.
+### Proposed Solution
+Describe how it should work.
+
+---
+
+### Alternative Approaches
+Any other ideas?
+
+---
+
+### Additional Context
+Screenshots, examples, or references.
