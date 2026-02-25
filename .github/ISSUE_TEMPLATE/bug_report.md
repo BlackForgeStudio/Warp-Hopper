@@ -1,28 +1,48 @@
+---
+name: 🐞 Bug Report
+about: Report a reproducible issue in WarpHopper
+title: "[BUG] "
+labels: bug
+assignees: ''
+---
+
 ## 🐞 Bug Report
 
-### 1. Environment
-- Minecraft Version:
-- Server Software (Paper build number):
-- WarpHopper Version:
-- Java Version:
-- Other Relevant Plugins:
+### Environment
+- **Minecraft Version:**
+- **Server Software (Paper build):**
+- **WarpHopper Version:**
+- **Java Version:**
+- **Other Installed Plugins:**
 
-### 2. Description of the Issue
-Describe the bug clearly and concisely.
+---
 
-### 3. Steps to Reproduce
+### Description
+Clearly describe the issue.
+
+---
+
+### Steps to Reproduce
 1.
 2.
 3.
 
-### 4. Expected Behavior
+---
+
+### Expected Behavior
 What should have happened?
 
-### 5. Actual Behavior
+---
+
+### Actual Behavior
 What actually happened?
 
-### 6. Console Errors
+---
+
+### Console Errors / Logs
 Paste full error logs here (use pastebin if large).
 
-### 7. Additional Information
-Screenshots, configuration file, or extra context.
+---
+
+### Additional Information
+Screenshots, config.yml, or other relevant details.
