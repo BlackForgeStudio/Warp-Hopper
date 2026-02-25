@@ -1,20 +1,16 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+## 🚀 Feature Request
 
----
+### 1. Feature Summary
+Provide a short description of the feature.
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### 2. Problem It Solves
+What limitation or issue does this address?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### 3. Proposed Solution
+Describe how you think it should work.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### 4. Alternative Solutions
+Have you considered another approach?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 5. Additional Context
+Screenshots, mockups, or examples from other plugins.
