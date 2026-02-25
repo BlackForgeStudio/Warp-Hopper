@@ -1,38 +1,28 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+## 🐞 Bug Report
 
----
+### 1. Environment
+- Minecraft Version:
+- Server Software (Paper build number):
+- WarpHopper Version:
+- Java Version:
+- Other Relevant Plugins:
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### 2. Description of the Issue
+Describe the bug clearly and concisely.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 3. Steps to Reproduce
+1.
+2.
+3.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### 4. Expected Behavior
+What should have happened?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### 5. Actual Behavior
+What actually happened?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### 6. Console Errors
+Paste full error logs here (use pastebin if large).
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+### 7. Additional Information
+Screenshots, configuration file, or extra context.
